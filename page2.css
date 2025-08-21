@@ -1,0 +1,30 @@
+#d1 {
+  background-color: white;
+  border-radius: 10px;
+  height: 450px;
+  width: 250px;
+  border: 2px solid white;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#d2{
+    margin:5px 5px 0 5px;
+    background-color: #1E90FF;
+    border-radius: 10px;
+}
+img{
+    width: 170px;
+    margin:37px;
+}
+body{
+    background-color: lightgrey;
+}
+h1{
+    font-size: 22px;
+}
+p{
+    text-align:center;
+}
